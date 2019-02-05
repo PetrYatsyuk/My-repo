@@ -1,0 +1,7 @@
+C:\Users\PetrY\source\repos\IQ_Test\IQ_Test\IQ_Test\obj\Debug\IQ_Test.csprojAssemblyReference.cache
+C:\Users\PetrY\source\repos\IQ_Test\IQ_Test\IQ_Test\obj\Debug\IQ_Test.csproj.CoreCompileInputs.cache
+C:\Users\PetrY\source\repos\IQ_Test\IQ_Test\IQ_Test\bin\Debug\IQ_Test.exe.config
+C:\Users\PetrY\source\repos\IQ_Test\IQ_Test\IQ_Test\bin\Debug\IQ_Test.exe
+C:\Users\PetrY\source\repos\IQ_Test\IQ_Test\IQ_Test\bin\Debug\IQ_Test.pdb
+C:\Users\PetrY\source\repos\IQ_Test\IQ_Test\IQ_Test\obj\Debug\IQ_Test.exe
+C:\Users\PetrY\source\repos\IQ_Test\IQ_Test\IQ_Test\obj\Debug\IQ_Test.pdb
